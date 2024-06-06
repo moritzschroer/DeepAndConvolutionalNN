@@ -1,0 +1,23 @@
+Vortrag Aufteilung
+Moritz:
+- Feedforward Netzwerke (2 Folien)
+- Training bei Deep Learning
+- Back-propagation Algorithmus
+
+- Convolutional NN
+    * Detection Layer
+    * Pooling Layer
+    * Dropout Layer
+    * Flattening Layer
+- Klassifizierungsproblem MNIST Fashion
+- Praxisteil MNIST Fashion
+
+Carvin: 
+- Überwachtes Lernen
+- Bias-variance trade-off (2 Folien)
+- Overfitting (noch Ausarbeiten)
+
+- Klassifizierungsproblem MNIST Handwritten Digits
+- Praxisteil MNIST Digits
+- Convolutional NN
+    * Convolutional Layer (3 Folien)
