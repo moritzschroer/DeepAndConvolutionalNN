@@ -14,8 +14,8 @@ Moritz:
 
 Carvin: 
 - Überwachtes Lernen
-- Bias-variance trade-off (2 Folien)
-- Overfitting (noch Ausarbeiten)
+- Beispiel (3 Folien)
+- Bias-variance trade-off (5 Folien)
 
 - Klassifizierungsproblem MNIST Handwritten Digits
 - Praxisteil MNIST Digits
